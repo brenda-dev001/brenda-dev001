@@ -12,12 +12,6 @@
 
 <br>
 
-<div align="center">
-  <a href="www.linkedin.com/in/brenda-luiza-1870ba3b1"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/></a>
-  <a href="https://www.instagram.com/brenda_luiza09?igsh=emRocWFub3QxeG94&utm_source=qr"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"/></a>
-  <a href="mailto:brenda.luiza.dev@outlook.com"><img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  /></a>
-</div>
-
 ## 👩🏻‍💻Tecnologias
 
 <br>
