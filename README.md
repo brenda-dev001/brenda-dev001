@@ -2,9 +2,7 @@
 
 **`Desenvolvedora em formação`**
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (IFTM)
-
-📍 Minas Gerais, Brasil
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
 
 💻 Apaixonada por tecnologia e desenvolvimento de software
 
